@@ -1,0 +1,254 @@
+[
+  {
+    "subject": "Physics",
+    "chapter": "Mathematics in Physics",
+    "class": "Class 11",
+    "unit": "Mechanics 1",
+    "yearWiseQuestionCount": {
+      "2019": 0,
+      "2020": 2,
+      "2021": 5,
+      "2022": 5,
+      "2023": 3,
+      "2024": 7,
+      "2025": 6
+    },
+    "questionSolved": 0,
+    "status": "Not Started",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Physics",
+    "chapter": "Units and Dimensions",
+    "class": "Class 11",
+    "unit": "Mechanics 1",
+    "yearWiseQuestionCount": {
+      "2019": 2,
+      "2020": 6,
+      "2021": 8,
+      "2022": 4,
+      "2023": 6,
+      "2024": 3,
+      "2025": 10
+    },
+    "questionSolved": 39,
+    "status": "Completed",
+    "isWeakChapter": true
+  },
+  {
+    "subject": "Physics",
+    "chapter": "Motion In One Dimension",
+    "class": "Class 11",
+    "unit": "Mechanics 1",
+    "yearWiseQuestionCount": {
+      "2019": 2,
+      "2020": 10,
+      "2021": 6,
+      "2022": 7,
+      "2023": 0,
+      "2024": 2,
+      "2025": 6
+    },
+    "questionSolved": 33,
+    "status": "Completed",
+    "isWeakChapter": true
+  },
+  {
+    "subject": "Physics",
+    "chapter": "Motion In Two Dimensions",
+    "class": "Class 11",
+    "unit": "Mechanics 1",
+    "yearWiseQuestionCount": {
+      "2019": 3,
+      "2020": 8,
+      "2021": 4,
+      "2022": 6,
+      "2023": 2,
+      "2024": 5,
+      "2025": 8
+    },
+    "questionSolved": 18,
+    "status": "In Progress",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "class": "Class 11",
+    "unit": "Mechanics 2",
+    "yearWiseQuestionCount": {
+      "2019": 4,
+      "2020": 7,
+      "2021": 9,
+      "2022": 8,
+      "2023": 6,
+      "2024": 10,
+      "2025": 12
+    },
+    "questionSolved": 0,
+    "status": "Not Started",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "class": "Class 11",
+    "unit": "Physical Chemistry",
+    "yearWiseQuestionCount": {
+      "2019": 8,
+      "2020": 2,
+      "2021": 8,
+      "2022": 2,
+      "2023": 7,
+      "2024": 8,
+      "2025": 4
+    },
+    "questionSolved": 28,
+    "status": "In Progress",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Chemistry",
+    "chapter": "Atomic Structure",
+    "class": "Class 11",
+    "unit": "Physical Chemistry",
+    "yearWiseQuestionCount": {
+      "2019": 6,
+      "2020": 4,
+      "2021": 7,
+      "2022": 5,
+      "2023": 8,
+      "2024": 9,
+      "2025": 7
+    },
+    "questionSolved": 0,
+    "status": "Not Started",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "class": "Class 11",
+    "unit": "Physical Chemistry",
+    "yearWiseQuestionCount": {
+      "2019": 5,
+      "2020": 8,
+      "2021": 6,
+      "2022": 9,
+      "2023": 4,
+      "2024": 7,
+      "2025": 11
+    },
+    "questionSolved": 35,
+    "status": "Completed",
+    "isWeakChapter": true
+  },
+  {
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "class": "Class 12",
+    "unit": "Physical Chemistry",
+    "yearWiseQuestionCount": {
+      "2019": 7,
+      "2020": 5,
+      "2021": 9,
+      "2022": 6,
+      "2023": 8,
+      "2024": 4,
+      "2025": 10
+    },
+    "questionSolved": 22,
+    "status": "In Progress",
+    "isWeakChapter": true
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Complex Numbers",
+    "class": "Class 11",
+    "unit": "Algebra",
+    "yearWiseQuestionCount": {
+      "2019": 3,
+      "2020": 4,
+      "2021": 7,
+      "2022": 6,
+      "2023": 5,
+      "2024": 8,
+      "2025": 12
+    },
+    "questionSolved": 25,
+    "status": "Completed",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Quadratic Equations",
+    "class": "Class 11",
+    "unit": "Algebra",
+    "yearWiseQuestionCount": {
+      "2019": 4,
+      "2020": 6,
+      "2021": 5,
+      "2022": 8,
+      "2023": 7,
+      "2024": 6,
+      "2025": 9
+    },
+    "questionSolved": 15,
+    "status": "In Progress",
+    "isWeakChapter": true
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Sequences and Series",
+    "class": "Class 11",
+    "unit": "Algebra",
+    "yearWiseQuestionCount": {
+      "2019": 2,
+      "2020": 5,
+      "2021": 4,
+      "2022": 7,
+      "2023": 6,
+      "2024": 9,
+      "2025": 8
+    },
+    "questionSolved": 0,
+    "status": "Not Started",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Trigonometry",
+    "class": "Class 11",
+    "unit": "Trigonometry",
+    "yearWiseQuestionCount": {
+      "2019": 6,
+      "2020": 8,
+      "2021": 9,
+      "2022": 5,
+      "2023": 7,
+      "2024": 11,
+      "2025": 14
+    },
+    "questionSolved": 42,
+    "status": "Completed",
+    "isWeakChapter": false
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Coordinate Geometry",
+    "class": "Class 11",
+    "unit": "Coordinate Geometry",
+    "yearWiseQuestionCount": {
+      "2019": 5,
+      "2020": 7,
+      "2021": 6,
+      "2022": 9,
+      "2023": 8,
+      "2024": 10,
+      "2025": 12
+    },
+    "questionSolved": 28,
+    "status": "In Progress",
+    "isWeakChapter": true
+  }
+]
